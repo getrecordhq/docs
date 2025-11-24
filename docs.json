@@ -85,8 +85,8 @@
     }
   },
   "logo": {
-    "light": "/logo/recordlight.png",
-    "dark": "/logo/recorddark.png"
+    "light": "/logo/recorddark.png",
+    "dark": "/logo/recordlight.png"
   },
   "navbar": {
     "links": [
