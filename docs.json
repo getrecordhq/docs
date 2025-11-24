@@ -1,13 +1,14 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Record Docs",
+  "description": "Example Co. is a company that provides example content and placeholder text.",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#EE634E",
+    "light": "#F58979",
+    "dark": "#EE634E"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/faviconn.png",
   "navigation": {
     "tabs": [
       {
@@ -84,8 +85,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/recordlight.png",
+    "dark": "/logo/recorddark.png"
   },
   "navbar": {
     "links": [
