@@ -45,6 +45,12 @@
               "for-individuals/quick-start",
               "for-individuals/profile-building/untitled-page"
             ]
+          },
+          {
+            "group": "Tools",
+            "pages": [
+              "for-individuals/tools/untitled-page"
+            ]
           }
         ]
       },
