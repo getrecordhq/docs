@@ -15,11 +15,13 @@
         {
           "anchor": "Documentation",
           "icon": "book-open-cover",
+          "hidden": true,
           "href": "https://mintlify.com/docs"
         },
         {
           "anchor": "Blog",
           "icon": "newspaper",
+          "hidden": true,
           "href": "https://mintlify.com/blog"
         }
       ]
@@ -34,24 +36,19 @@
         ]
       },
       {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
+        "tab": "For Individuals"
+      },
+      {
+        "tab": "For UpSkilling Companies"
+      },
+      {
+        "tab": "For Recruiters"
+      },
+      {
+        "tab": "Glossary"
+      },
+      {
+        "tab": "Changelog"
       }
     ]
   },
