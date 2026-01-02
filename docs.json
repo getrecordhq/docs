@@ -38,16 +38,16 @@
       },
       {
         "tab": "For Individuals",
-        "dropdowns": [
+        "groups": [
           {
-            "dropdown": "Profile Building",
+            "group": "Profile Building",
             "pages": [
               "for-individuals/quick-start",
               "for-individuals/profile-building/untitled-page"
             ]
           },
           {
-            "dropdown": "Tools",
+            "group": "Tools",
             "pages": [
               "for-individuals/tools/untitled-page"
             ]
