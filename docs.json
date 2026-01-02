@@ -28,9 +28,9 @@
       {
         "tab": "Introduction",
         "pages": [
-          "index",
-          "quickstart",
-          "development"
+          "introduction/untitled-page-2",
+          "introduction/untitled-page-1",
+          "introduction/untitled-page"
         ]
       },
       {
