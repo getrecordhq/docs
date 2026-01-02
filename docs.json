@@ -36,7 +36,10 @@
         ]
       },
       {
-        "tab": "For Individuals"
+        "tab": "For Individuals",
+        "pages": [
+          "for-individuals/quick-start"
+        ]
       },
       {
         "tab": "For UpSkilling Companies"
@@ -48,7 +51,16 @@
         "tab": "Glossary"
       },
       {
-        "tab": "Changelog"
+        "tab": "Changelog",
+        "versions": [
+          {
+            "version": "RFS v1.24.0",
+            "default": true,
+            "pages": [
+              "changelog/rfs-v1-24-0/untitled-page"
+            ]
+          }
+        ]
       }
     ]
   },
