@@ -52,14 +52,8 @@
       },
       {
         "tab": "Changelog",
-        "versions": [
-          {
-            "version": "RFS v1.24.0",
-            "default": true,
-            "pages": [
-              "changelog/rfs-v1-24-0/untitled-page"
-            ]
-          }
+        "pages": [
+          "changelog/changelog"
         ]
       }
     ]
