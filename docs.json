@@ -29,6 +29,7 @@
     "tabs": [
       {
         "tab": "Introduction",
+        "hidden": true,
         "pages": [
           "introduction/untitled-page-2",
           "introduction/untitled-page-1",
@@ -42,13 +43,16 @@
         ]
       },
       {
-        "tab": "For UpSkilling Companies"
+        "tab": "For UpSkilling Companies",
+        "hidden": true
       },
       {
-        "tab": "For Recruiters"
+        "tab": "For Recruiters",
+        "hidden": true
       },
       {
-        "tab": "Glossary"
+        "tab": "Glossary",
+        "hidden": true
       },
       {
         "tab": "Changelog",
