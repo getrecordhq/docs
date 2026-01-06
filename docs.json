@@ -55,9 +55,10 @@
           {
             "group": "Tools",
             "pages": [
-              "for-individuals/tools/untitled-page-1",
               "for-individuals/tools/untitled-page",
-              "for-individuals/tools/one-click-resume"
+              "for-individuals/tools/one-click-resume",
+              "for-individuals/tools/untitled-page-1",
+              "for-individuals/tools/untitled-page-2"
             ]
           }
         ]
