@@ -38,8 +38,13 @@
       },
       {
         "tab": "For Individuals",
-        "pages": [
-          "for-individuals/untitled-page-1",
+        "groups": [
+          {
+            "group": "Account",
+            "pages": [
+              "for-individuals/account/untitled-page"
+            ]
+          },
           {
             "group": "Profile Building",
             "pages": [
@@ -61,8 +66,7 @@
               "for-individuals/tools/untitled-page-1",
               "for-individuals/tools/untitled-page-2"
             ]
-          },
-          "for-individuals/untitled-page"
+          }
         ]
       },
       {
