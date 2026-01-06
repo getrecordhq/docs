@@ -38,7 +38,8 @@
       },
       {
         "tab": "For Individuals",
-        "groups": [
+        "pages": [
+          "for-individuals/untitled-page",
           {
             "group": "Profile Building",
             "pages": [
