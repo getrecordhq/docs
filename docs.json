@@ -83,7 +83,9 @@
       },
       {
         "tab": "For Recruiters",
-        "hidden": true
+        "pages": [
+          "terms-and-conditions-copied-1"
+        ]
       },
       {
         "tab": "Glossary",
