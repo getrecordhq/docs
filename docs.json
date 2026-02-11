@@ -4,9 +4,9 @@
   "name": "Record Docs",
   "description": "",
   "colors": {
-    "primary": "#EE634E",
-    "light": "#F58979",
-    "dark": "#EE634E"
+    "primary": "#022C22",
+    "light": "#022C22",
+    "dark": "#BEF264"
   },
   "favicon": "/faviconn.png",
   "navigation": {
