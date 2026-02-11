@@ -101,7 +101,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:admin@getrecord.in"
+        "href": "mailto:akshay@goodfreshers.com"
       }
     ],
     "primary": {
@@ -124,9 +124,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/record_HQ",
-      "instagram": "https://www.instagram.com/getrecord.hq/",
-      "linkedin": "https://linkedin.com/company/getrecordhq"
+      "instagram": "https://www.instagram.com/goodfreshers",
+      "linkedin": "https://www.linkedin.com/company/goodfreshers/",
+      "x": "https://x.com/goodfreshers"
     }
   },
   "fonts": {
@@ -155,5 +155,12 @@
   },
   "appearance": {
     "default": "system"
+  },
+  "thumbnails": {
+    "appearance": "dark",
+    "background": "/images/Frame1000004031.png",
+    "fonts": {
+      "family": "DM Sans"
+    }
   }
 }
