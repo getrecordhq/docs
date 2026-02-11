@@ -1,14 +1,14 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Record Docs",
+  "name": "GoodFreshers Docs",
   "description": "",
   "colors": {
     "primary": "#022C22",
     "light": "#BEF264",
     "dark": "#BEF264"
   },
-  "favicon": "/faviconn.png",
+  "favicon": "/images/GoodFreshersFavicon.png",
   "navigation": {
     "global": {
       "anchors": [
