@@ -5,7 +5,7 @@
   "description": "",
   "colors": {
     "primary": "#022C22",
-    "light": "#022C22",
+    "light": "#BEF264",
     "dark": "#BEF264"
   },
   "favicon": "/faviconn.png",
@@ -145,6 +145,11 @@
       "weight": 400,
       "family": "DM Sans",
       "format": "woff"
+    }
+  },
+  "background": {
+    "color": {
+      "light": "#121212"
     }
   }
 }
