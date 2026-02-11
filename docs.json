@@ -94,8 +94,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/recorddark.png",
-    "dark": "/logo/recordlight.png"
+    "light": "/images/GoodFreshersLightLogo.png",
+    "dark": "/images/GoodFreshersDarkLogo.png"
   },
   "navbar": {
     "links": [
@@ -152,5 +152,8 @@
       "light": "#ffffff",
       "dark": "#121212"
     }
+  },
+  "appearance": {
+    "default": "system"
   }
 }
