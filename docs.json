@@ -149,7 +149,8 @@
   },
   "background": {
     "color": {
-      "light": "#121212"
+      "light": "#ffffff",
+      "dark": "#121212"
     }
   }
 }
