@@ -13,8 +13,6 @@ Every verified skill is stored inside the **Skill Repository**, where candidates
 
 The verification system is designed to help recruiters confidently evaluate a candidate's capabilities using real-world validation rather than self-declared skills.
 
----
-
 # Verification Methods
 
 Candidates can verify skills using two methods:
@@ -42,8 +40,6 @@ Human endorsements generate high-trust verification signals because they are val
 - The verifier receives a secure verification request.
 - Skills become verified once approved by the verifier.
 
----
-
 ## 2. Assessment Verification
 
 Candidates can verify a skill by successfully completing an AI-generated assessment.
@@ -60,8 +56,6 @@ The assessment is dynamically generated based on the selected skill and source.
   - Other Activities
 - Candidates must achieve the required passing score.
 - Verified skills are automatically added to the Skill Repository.
-
----
 
 # Skill Verification Flow
 
@@ -87,8 +81,6 @@ Examples:
   ![Image](/images/image-1.png)
 </Frame>
 
----
-
 ## Step 2 — Select Verification Method
 
 The candidate chooses how they want to verify the skill.
@@ -105,14 +97,11 @@ Verified through a structured assessment.
   ![Image](/images/image-2.png)
 </Frame>
 
----
-
 # Human Endorsement Flow
 
 ## Step 3 — Select Endorsement Type
 
-Candidates select the relationship of the person verifying the skill.\
-\
+Candidates select the relationship of the person verifying the skill.
 
 <Frame>
   ![Image](/images/image-3.png)
@@ -126,15 +115,11 @@ Direct manager validates skill proficiency.
 
 **Trust Level:** Very High
 
----
-
 ### Functional / Technical Lead Endorsement
 
 Technical leader validates expertise.
 
 **Trust Level:** High
-
----
 
 ### Client / Stakeholder Endorsement
 
@@ -142,23 +127,17 @@ Client validates delivery and work quality.
 
 **Trust Level:** High
 
----
-
 ### Founder / CXO Endorsement
 
 Business leader validates contributions.
 
 **Trust Level:** High
 
----
-
 ### Peer / Colleague Endorsement
 
 Coworker validates collaboration and execution.
 
 **Trust Level:** Medium
-
----
 
 # Trust Levels
 
@@ -173,8 +152,6 @@ Different endorsement relationships contribute different trust signals.
 | Peer / Colleague | Medium |
 
 Higher trust endorsements contribute stronger verification credibility.
-
----
 
 ## Step 4 — Select Verification Source
 
@@ -204,8 +181,6 @@ Skills demonstrated through extracurricular or professional activities.
   ![Image](/images/image-4.png)
 </Frame>
 
----
-
 ## Step 5 — Add Verifier Information
 
 The candidate provides details of the verifier.
@@ -224,8 +199,6 @@ Example:
 <https://company.com>
 ```
 
----
-
 ### Organization Name
 
 Example:
@@ -234,8 +207,6 @@ Example:
 GoodFreshers
 ```
 
----
-
 ### Verifier Name
 
 Example:
@@ -243,8 +214,6 @@ Example:
 ```text
 Saran Kumar
 ```
-
----
 
 ### Official Work Email
 
@@ -259,8 +228,6 @@ saran@company.com
 - Only business email addresses are accepted.
 - Email domain validation is performed.
 - Verification requests sent to invalid domains may be rejected.
-
----
 
 ## Step 6 — Bundle Additional Skills
 
@@ -288,8 +255,6 @@ A single manager can validate all five skills through one request.
   ![Image](/images/image-6.png)
 </Frame>
 
----
-
 ## Step 7 — Review & Submit
 
 Candidates review:
@@ -315,7 +280,7 @@ All bundled skills are displayed.
 Once submitted:
 
 - Verification request is generated.
-- Email is sent to verifier.
+- Email is sent to the verifier.
 - Request status becomes Pending.
 
 # Verifier Experience
@@ -358,8 +323,6 @@ Once submitted:
     ![Image](/images/image-7.png)
   </Frame>
 
----
-
 # Assessment Verification Flow
 
 <Frame>
@@ -382,8 +345,6 @@ or
 
 Inventory Management System
 
----
-
 ## Step 4 — Assessment Generation
 
 The platform generates a contextual assessment using:
@@ -402,8 +363,6 @@ Questions are designed to evaluate:
 
 not theoretical memorization.
 
----
-
 ## Assessment Outcomes
 
 ### Pass
@@ -418,15 +377,11 @@ Candidate may retry based on retry policy.
 
 Candidate can resume later.
 
----
-
 # Verification Touchpoints
 
 Touchpoints represent independent verification proofs accumulated against a skill.
 
 A skill becomes stronger as additional touchpoints are added.
-
----
 
 ## Available Verification Proofs
 
@@ -444,8 +399,6 @@ Each skill can accumulate up to 6 independent proofs.
 
 1. Assessment Verification
 
----
-
 ## Maximum Verification Capacity
 
 ### Per Source
@@ -461,8 +414,6 @@ Each skill can accumulate up to 6 independent proofs.
 ```text
 10 Skills × 6 Proofs = 60 Touchpoints
 ```
-
----
 
 # Skill Repository
 
@@ -499,8 +450,6 @@ Assessment completed but passing score not achieved.
 ### Expired
 
 Verification validity period has ended.
-
----
 
 ## Information Stored
 
@@ -544,8 +493,6 @@ Each skill record contains:
 - Rejections
 - Assessment Attempts
 
----
-
 # YouTube Learning Verification
 
 Transform your self-learning into verified, recruiter-recognized skills.
@@ -573,8 +520,6 @@ This enables learners to convert educational YouTube content into credible, shar
 | Duplicate Skill Within Same Source | ❌ | Blocked |
 | More Than 10 Skills In A Source | ❌ | Blocked |
 
----
-
 ## Assessment Rules
 
 | Scenario | Allowed | Behavior |
@@ -583,8 +528,6 @@ This enables learners to convert educational YouTube content into credible, shar
 | Failed Assessment | ✅ | Retake Allowed |
 | Paused Assessment | ✅ | Resume Available |
 | Resend Verification | ✅ | Link Can Be Resent |
-
----
 
 # Benefits of Skill Verification
 
